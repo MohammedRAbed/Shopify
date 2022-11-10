@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/drawable/btn_bg.xml" value="0.1335" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/drawable/btn_bg1.xml" value="0.1335" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/drawable/btn_bg2.xml" value="0.1335" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/drawable/btn_bg_list.xml" value="0.1335" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/drawable/edittexts_bg.xml" value="0.1335" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/drawable/female_selector_btn.xml" value="0.147" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/drawable/male_female_txt_selector.xml" value="0.147" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/drawable/male_selector_btn.xml" value="0.147" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/drawable/white_rising_bg.xml" value="0.147" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/layout/activity_boarding.xml" value="0.264" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/layout/activity_forgot_password.xml" value="0.22962962962962963" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/layout/activity_my_splash.xml" value="0.264" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/layout/activity_register.xml" value="0.22962962962962963" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/layout/activity_user_profile.xml" value="0.22962962962962963" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/layout/fragment_boarding.xml" value="0.25" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/layout/fragment_orders.xml" value="0.25" />
+        <entry key="..\:/AndroidNativeWork/MyECommerceShop/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

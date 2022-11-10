@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088227116717",
+    "project_id": "myeshop-ed138",
+    "storage_bucket": "myeshop-ed138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088227116717:android:966fe9e023e6dc7db6e824",
+        "android_client_info": {
+          "package_name": "com.moabed.myecommerceshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088227116717-98tk7kc2j11oa1a3kvfnclgfoh203917.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moabed.myecommerceshop",
+            "certificate_hash": "b412b8a85c38e001e57ff8406f2dfaa9bf246428"
+          }
+        },
+        {
+          "client_id": "1088227116717-vfpi8qt122hq1bfhr6fetug5e9f41jj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYweDPWt6Mm4EgWMx4j5hlKMqFVsLLw0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088227116717-vfpi8qt122hq1bfhr6fetug5e9f41jj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
